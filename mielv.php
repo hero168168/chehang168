@@ -1,1 +1,1 @@
-<?php/** * Created by PhpStorm. * User: mac_hero * Date: 2017/12/13 * Time: 下午6:06 */ echo  "镁铝镁铝2号"; ?>
+<?php/** * Created by PhpStorm. * User: mac_hero * Date: 2017/12/13 * Time: 下午6:06 */ echo  "镁铝镁铝3号"; ?>
